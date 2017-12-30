@@ -1,0 +1,15 @@
+Program test5 {
+      Integer var1,var2,array[20];
+      Character ch1;
+      Float f1, f2, f3;
+      Void myMethod1(Integer va1, Character ch1) {
+            Integer sum;
+            Integer i;
+            i = 0;
+            While (var1<=ch1) {
+                  array[i] = var1%2;
+                  sum = sum + array[i];
+                  i = i + 1;
+            }
+      }
+}
